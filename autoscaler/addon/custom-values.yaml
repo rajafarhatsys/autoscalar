@@ -1,0 +1,3 @@
+autoDiscovery:
+  clusterName:  collibra-test
+awsRegion: us-east-1
