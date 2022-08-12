@@ -1,7 +1,7 @@
 kind: AddonVersion
 metadata:
   name: v1
-  project: defaultproject
+  project: corp-it
 spec:
   addon: autoscaler-addon
   namespace: autoscaler
